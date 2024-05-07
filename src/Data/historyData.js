@@ -1,5 +1,6 @@
 export const historyData = [{
     title: "Alija",
+    link: "/history/alija",
     description: "",
     image: "",
     data: [
@@ -13,6 +14,7 @@ export const historyData = [{
     ]
 }, {
     title: "Palästina unter britischer Regierung",
+    link: "/history/palaestina_unter_britischer_regisierung",
     description: "",
     image: "",
     data: [

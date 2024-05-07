@@ -13,8 +13,8 @@ function App() {
           <div><Sidenav/></div>
           <main className="main-content">
               <Routes>
-                  <Route path={"history"} element={
-                      <History events={historyData[0]["data"]}/>
+                  <Route path={"history/alija"} element={
+                      <History fullList={historyData} events={historyData[0]["data"]}/>
                   }/>
               </Routes>
           </main>

@@ -1,0 +1,32 @@
+.topnav {
+    font-size: 1.1em;
+    background-color: rgb(203, 203, 203);
+    overflow: hidden;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    height: 40px;
+}
+
+.topnavItem {
+    float: left;
+    color: #181818;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+.topnavItem:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.activeItem {
+    float: left;
+    color: #181818;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+    background-color: #f3f3f3;
+}
