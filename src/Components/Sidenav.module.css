@@ -1,0 +1,40 @@
+.sidenav {
+    width: 250px;
+    transition: width 0.3s ease-in-out;
+    height: 100%;
+    background-color: rgb(219, 235, 255);
+    padding-top: 28px;
+    position: fixed;
+}
+
+.sideitem {
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+    cursor: pointer;
+    color: #262626;
+    font-size: 1.3em;
+    text-decoration: none;
+}
+
+.linkText {
+    padding-left: 16px;
+}
+
+.sideitem:hover {
+    background-color: #244f7d1c;
+}
+
+.menuBtn {
+    align-self: flex-start;
+    justify-self: flex-end;
+    color: #262626;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding-left: 20px;
+}
+
+.active {
+    font-weight: bold;
+}
