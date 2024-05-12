@@ -1,0 +1,103 @@
+.anchorNavDiv { /*nav*/
+    position: sticky;
+    width: 100%;
+    background-color: #f3f3f3;
+    overflow: hidden;
+    top: 40px;
+    z-index: 1;
+    /*height: 150px;*/
+    /*offset: 200px;*/
+}
+
+.anchorNavItem { /*li*/
+    width: 50px;
+    height: 50px;
+    float: left;
+    color: #f2f2f2;
+    background-color: rgb(37, 87, 148);
+    text-align: center;
+    padding: 24px 26px;
+    margin: 24px 26px;
+    text-decoration: none;
+    border-radius: 50%;
+    border: 2px solid black;
+    display: flex; /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+}
+
+.anchorNavItem::before {
+    content: '';
+    background-color: black;
+    position: absolute;
+    top: 50%;
+    /*left: 10%;*/
+    width: 200%;
+    height: 2px;
+    z-index: -1;
+}
+
+.anchorNavItem:first-child::before {
+    display: none;
+}
+
+.anchorNavItem:hover {
+    background-color: #4774a9;
+}
+
+.anchorNavActive {
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    float: left;
+    color: rgb(17, 50, 89);
+    text-align: center;
+    padding: 24px 26px;
+    margin: 24px 26px;
+    text-decoration: none;
+    border-radius: 50%;
+    display: flex; /* or inline-flex */
+    align-items: center;
+    justify-content: center;
+}
+
+.anchorNavLink { /*a*/
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    text-decoration: none;
+    color: white;
+    /*transition: all 0.3s;*/
+    /*border-bottom: 5px solid transparent;*/
+    /*border-bottom: 5px solid #4bb6f5;*/
+}
+.anchorNavLink:hover { /*a*/
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    text-decoration: none;
+    /*transition: all 0.3s;*/
+    /*border-bottom: 5px solid transparent;*/
+    /*border-bottom: 5px solid #4bb6f5;*/
+}
+
+.anchorNavLinkActive { /*a*/
+    display: inline-block;
+    width: 100%;
+    padding: 10px 0;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: all 0.3s;
+    /*border-bottom: 5px solid transparent;*/
+    /*border-bottom: 5px solid #4bb6f5;*/
+}
+
+.anchorContent {
+}
+
+.anchorSection {
+    position: relative;
+    display: block;
+    top: -200px;
+}

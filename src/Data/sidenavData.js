@@ -12,6 +12,6 @@ export const sidenavData = [
         id: 1,
         icon: <TimelineIcon/>,
         text: "Entstehung",
-        link: "/history/alija"
+        link: "/history"
     }
 ]

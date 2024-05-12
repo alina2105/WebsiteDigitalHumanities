@@ -1,5 +1,9 @@
 export const historyData = [{
-    title: "Alija", link: "/history/alija", description: "", image: "", data: [{
+    title: "Alija",
+    link: "/history/alija",
+    description: "Some very helpful short description", // TODO
+    image: require("../Images/alija.jpg"),
+    data: [{
         id: 0,
         date: "ab 1882",
         title: "Alija",
