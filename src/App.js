@@ -13,9 +13,14 @@ function App() {
           <div><Sidenav/></div>
           <main className="main-content">
               <Routes>
-                  <Route path={"history/alija"} element={
-                      <History fullList={historyData} events={historyData[0]["data"]}/>
-                  }/>
+                  {historyData.map(item => (
+                      <Route path={item.link} element={
+                          <History fullList={historyData} events={item.data}/>
+                      }/>
+                  ))}
+                  {/*<Route path={"history/alija"} element={*/}
+                  {/*    <History fullList={historyData} events={historyData[0]["data"]}/>*/}
+                  {/*}/>*/}
               </Routes>
           </main>
       </div>

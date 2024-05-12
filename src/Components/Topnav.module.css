@@ -18,7 +18,7 @@
 
 .topnavItem:hover {
     background-color: #ddd;
-    color: black;
+    color: #181818;
 }
 
 .activeItem {
