@@ -1,7 +1,6 @@
 import styles from "./HistEventBlock.module.css";
 
 export default function SolutionBlock({solution,}) {
-    console.log(solution);
     return (<div className={styles.container}>
         <div className={styles.text}>
             <h1>{solution.title}</h1>

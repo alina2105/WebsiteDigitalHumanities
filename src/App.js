@@ -5,11 +5,13 @@ import {
 } from "react-router-dom";
 import Sidenav from './Components/Sidenav';
 import History from "./Pages/History";
-import {historyData} from "./Data/historyData";
-import {solutionsData} from "./Data/solutionsData";
 import HistoryLanding from "./Pages/HistoryLanding";
 import Home from "./Pages/Home";
 import Solutions from "./Pages/Solutions";
+import Quiz from "./Pages/Quiz";
+import {historyData} from "./Data/historyData";
+import {solutionsData} from "./Data/solutionsData";
+import {quizData} from "./Data/quizData";
 
 function App() {
   return (
@@ -25,6 +27,7 @@ function App() {
                   <Route path={"history/"} element={<HistoryLanding fullList={historyData}/>}/>
                   <Route path={"home/"} element={<Home/>}/>
                   <Route path={"loesungsansaetze/"} element={<Solutions solutions={solutionsData}/>}/>
+                  <Route path={"quiz/"} element={<Quiz quizData={quizData}/>}/>
               </Routes>
           </main>
       </div>
