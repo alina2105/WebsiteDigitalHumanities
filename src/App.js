@@ -7,6 +7,7 @@ import Sidenav from './Components/Sidenav';
 import History from "./Pages/History";
 import {historyData} from "./Data/historyData";
 import HistoryLanding from "./Pages/HistoryLanding";
+import Home from "./Pages/Home";
 
 function App() {
   return (
@@ -20,9 +21,7 @@ function App() {
                       }/>
                   ))}
                   <Route path={"history/"} element={<HistoryLanding fullList={historyData}/>}/>
-                  {/*<Route path={"history/alija"} element={*/}
-                  {/*    <History fullList={historyData} events={historyData[0]["data"]}/>*/}
-                  {/*}/>*/}
+                  <Route path={"home/"} element={<Home/>}/>
               </Routes>
           </main>
       </div>

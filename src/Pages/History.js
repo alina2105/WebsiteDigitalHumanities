@@ -36,6 +36,7 @@ export default function History({fullList, events,}) {
                     ))}
                 </main>
             </AnchorProvider>
+            <div className={styles.whitespace}></div>
         </div>
     );
 }

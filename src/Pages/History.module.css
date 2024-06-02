@@ -101,3 +101,7 @@
     display: block;
     top: -200px;
 }
+
+.whitespace {
+    height: 60vh;
+}

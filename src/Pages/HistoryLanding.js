@@ -10,6 +10,8 @@ export default function HistoryLanding({fullList,}) {
     }
 
     return (<div className={styles.mainDiv}>
+        <h1>Die Entstehung des Nahostkonflikts</h1>
+        <p>Klicke auf die Karten, um nähere Informationen über die verschiedenen Etappen der Geschichte zu erhalten.</p>
         <Grid container spacing={3}>
             {fullList.map((item) => (
                 <Grid item xs={4}>
