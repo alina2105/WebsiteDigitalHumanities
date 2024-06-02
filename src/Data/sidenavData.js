@@ -1,5 +1,6 @@
 import HomeIcon from '@mui/icons-material/Home';
 import TimelineIcon from '@mui/icons-material/Timeline';
+import ConstructionIcon from '@mui/icons-material/Construction';
 
 export const sidenavData = [
     {
@@ -13,5 +14,11 @@ export const sidenavData = [
         icon: <TimelineIcon/>,
         text: "Entstehung",
         link: "/history"
+    },
+    {
+        id: 2,
+        icon: <ConstructionIcon/>,
+        text: "Lösungsansätze",
+        link: "/loesungsansaetze"
     }
 ]

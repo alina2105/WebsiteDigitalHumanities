@@ -2,7 +2,7 @@
     width: 250px;
     transition: width 0.3s ease-in-out;
     height: 100%;
-    background-color: rgb(219, 235, 255);
+    background-color: rgb(131, 0, 0);
     padding-top: 28px;
     position: fixed;
 }
@@ -12,8 +12,8 @@
     align-items: center;
     padding: 10px 20px;
     cursor: pointer;
-    color: #262626;
-    font-size: 1.3em;
+    color: #e1e1e1;
+    font-size: 1.2em;
     text-decoration: none;
 }
 
