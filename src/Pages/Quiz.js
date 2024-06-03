@@ -38,7 +38,7 @@ export default function Quiz({quizData,}) {
                                     checked={answers[q.id] === true}
                                     onChange={() => handleChange(q.id, true)}
                                 />
-                                True
+                                Richtig
                             </label>
                             <label>
                                 <input
@@ -48,14 +48,14 @@ export default function Quiz({quizData,}) {
                                     checked={answers[q.id] === false}
                                     onChange={() => handleChange(q.id, false)}
                                 />
-                                False
+                                Falsch
                             </label>
                         </div>
                     </div>
                 ))}
                 <button type="submit" className={styles.button}>Submit</button>
                 <p className={styles.feedback}>{submitted && quizData.map(
-                    (q) => answers[q.id] === q.solution).filter(x => x).length + " out of " + quizData.length + " correct"}
+                    (q) => answers[q.id] === q.solution).filter(x => x).length + " von " + quizData.length + " richtige Antworten"}
                 </p>
 
             </form>
