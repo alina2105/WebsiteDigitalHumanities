@@ -25,7 +25,7 @@ function App() {
                       }/>
                   ))}
                   <Route path={"history/"} element={<HistoryLanding fullList={historyData}/>}/>
-cha                  <Route path={"/"} element={<Home/>}/>
+cha                  <Route path={"/home"} element={<Home/>}/>
                   <Route path={"loesungsansaetze/"} element={<Solutions solutions={solutionsData}/>}/>
                   <Route path={"quiz/"} element={<Quiz quizData={quizData}/>}/>
               </Routes>
