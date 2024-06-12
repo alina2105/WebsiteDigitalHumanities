@@ -8,7 +8,7 @@ export const sidenavData = [
         id: 0,
         icon: <HomeIcon/>,
         text: "Home",
-        link: "/home"
+        link: "/"
     },
     {
         id: 1,

@@ -2,7 +2,6 @@ import HistEventBlock from "../Components/HistEventBlock";
 import Topnav from "../Components/Topnav";
 import styles from "./History.module.css";
 import {
-    AnchorContext,
     AnchorLink,
     AnchorProvider,
     AnchorSection,
