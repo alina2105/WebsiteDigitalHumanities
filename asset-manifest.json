@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/research-seminar-test-page/static/css/main.8a0de8b9.css",
+    "main.js": "/research-seminar-test-page/static/js/main.23f7ae4d.js",
+    "static/media/Weissbuch.jpeg": "/research-seminar-test-page/static/media/Weissbuch.7b0d033dcc951872e2b4.jpeg",
+    "static/media/Auschwitz.jpg": "/research-seminar-test-page/static/media/Auschwitz.d537b5c50c04f0f2a083.jpg",
+    "static/media/UN_Palestine_Partition_Versions_1947.jpg": "/research-seminar-test-page/static/media/UN_Palestine_Partition_Versions_1947.efd7b54bd742c2749843.jpg",
+    "static/media/Staatsgruendung.jpg": "/research-seminar-test-page/static/media/Staatsgruendung.3f802cd7682046c68c40.jpg",
+    "static/media/Al-Husayni.jpg": "/research-seminar-test-page/static/media/Al-Husayni.df50231f2e8dc6d1f0c9.jpg",
+    "static/media/Israelisettle_outpost.gif": "/research-seminar-test-page/static/media/Israelisettle_outpost.9532514b420c98485efa.gif",
+    "static/media/Assassination_of_Prime_Minister_Yitzhak_Rabin,_1995_XIII_Dan_Hadani_Archive.jpg": "/research-seminar-test-page/static/media/Assassination_of_Prime_Minister_Yitzhak_Rabin,_1995_XIII_Dan_Hadani_Archive.4f6388d3943c59327238.jpg",
+    "static/media/Haify.png": "/research-seminar-test-page/static/media/Haify.90deef9ee2cfec4d05a2.png",
+    "static/media/DP-camps.jpg": "/research-seminar-test-page/static/media/DP-camps.0934c9a6e2fea55d1209.jpg",
+    "static/media/2nd_intifada.jpg": "/research-seminar-test-page/static/media/2nd_intifada.0188210108a60e3a3b70.jpg",
+    "static/media/Fars_Photo_of_Destruction_in_Gaza_Strip_during_2023_War_01.jpg": "/research-seminar-test-page/static/media/Fars_Photo_of_Destruction_in_Gaza_Strip_during_2023_War_01.a331ba050d77e68be4fb.jpg",
+    "static/media/San-Remo-Conference.jpg": "/research-seminar-test-page/static/media/San-Remo-Conference.64445ec296660f679f70.jpg",
+    "static/media/nahostkonflikt_zerstörung.jpg": "/research-seminar-test-page/static/media/nahostkonflikt_zerstörung.31eb210f04e742811008.jpg",
+    "static/media/Intifada_in_Gaza_Strip,_1987_V_Dan_Hadani_Archive.jpg": "/research-seminar-test-page/static/media/Intifada_in_Gaza_Strip,_1987_V_Dan_Hadani_Archive.c775ec75c175a2761f2a.jpg",
+    "static/media/nahostkonflikt.jpg": "/research-seminar-test-page/static/media/nahostkonflikt.0d406a5e4a7283bc0c2e.jpg",
+    "static/media/Balfour_declaration_unmarked.jpg": "/research-seminar-test-page/static/media/Balfour_declaration_unmarked.02c73bd8d4f5a188c6b9.jpg",
+    "static/media/Holy_Land_2022_(1)_P473_Bethlehem_barrier.jpg": "/research-seminar-test-page/static/media/Holy_Land_2022_(1)_P473_Bethlehem_barrier.a9d5c422a7d4382658a6.jpg",
+    "static/media/sechstagekrieg.webp": "/research-seminar-test-page/static/media/sechstagekrieg.ecc9554b14d397cbf60e.webp",
+    "static/media/Jewish_militias_in_the_village_of_Deir_Yassin,_April_1948.jpg": "/research-seminar-test-page/static/media/Jewish_militias_in_the_village_of_Deir_Yassin,_April_1948.a1c7eebdd1d98e6820b4.jpg",
+    "static/media/unabhaenigikeitskriegisrael-100_1280x720.jpeg": "/research-seminar-test-page/static/media/unabhaenigikeitskriegisrael-100_1280x720.219407a2272856de3c22.jpeg",
+    "static/media/Exodus.jpg": "/research-seminar-test-page/static/media/Exodus.e7404d20166563d812a4.jpg",
+    "static/media/alija.jpg": "/research-seminar-test-page/static/media/alija.312cb874855eb22325df.jpg",
+    "static/media/partitionarmistice.gif": "/research-seminar-test-page/static/media/partitionarmistice.c3f3077ff914ff6c73af.gif",
+    "static/media/feuer2021.jpeg": "/research-seminar-test-page/static/media/feuer2021.9804d4d490ccd977a64e.jpeg",
+    "static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.webp": "/research-seminar-test-page/static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.8deb6d446088b45ca4d6.webp",
+    "static/media/oslo-abkommen.jpg": "/research-seminar-test-page/static/media/oslo-abkommen.d6a877bcd24fdc2d64ca.jpg",
+    "index.html": "/research-seminar-test-page/index.html",
+    "main.8a0de8b9.css.map": "/research-seminar-test-page/static/css/main.8a0de8b9.css.map",
+    "main.23f7ae4d.js.map": "/research-seminar-test-page/static/js/main.23f7ae4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a0de8b9.css",
+    "static/js/main.23f7ae4d.js"
+  ]
+}
