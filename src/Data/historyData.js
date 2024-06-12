@@ -12,7 +12,7 @@ export const historyData = [{
     },]
 }, {
     title: "Britische Regierung",
-    link: "/history/palaestina_unter_britischer_regisierung",
+    link: "/history/palaestina_unter_britischer_regierung",
     description: "Palästina unter britischer Regierung",
     image: require("../Images/San-Remo-Conference.jpg"),
     data: [{
@@ -72,7 +72,7 @@ export const historyData = [{
     data: [{
         id: 0,
         date: "1947",
-        title: "UN-Sonderkomission",
+        title: "UN-Sonderkommission",
         text: "Überfordert mit der sich stetig verschlimmernden Situation in Palästina bittet die britische Besatzungsmacht die UN um Hilfe. Eine von der UN gegründete Sonderkommission erarbeitet daraufhin einen Teilungsplan, der im November 1947 von der UN-Generalversammlung bestätigt wird",
         image: require("../Images/un-generalversammlung-teilungsplan-1947-1000x562.jpg.webp")  // Foto: Presseamt der israelischen Regierung
     }, {
@@ -114,8 +114,8 @@ export const historyData = [{
     }, {
         id: 3,
         date: "1949",
-        title: "Waffenstillstandsabkkommen",
-        text: "Der Krieg endete mit dem Waffenstillstandsabkommen von 1949 zwischen den Staaten Israel, Ägypten, Libanon, Syrien, Irak und Jordanien. Das nebenstehende Bild zeigt die vom UN-Teilungsplan vorgesehenden Regionen und das Ergebnis der Verteilung nach dem Krieg.",
+        title: "Waffenstillstandsabkommen",
+        text: "Der Krieg endete mit dem Waffenstillstandsabkommen von 1949 zwischen den Staaten Israel, Ägypten, Libanon, Syrien, Irak und Jordanien. Das nebenstehende Bild zeigt die vom UN-Teilungsplan vorgesehenen Regionen und das Ergebnis der Verteilung nach dem Krieg.",
         image: require("../Images/partitionarmistice.gif")
     }, {
         id: 4,

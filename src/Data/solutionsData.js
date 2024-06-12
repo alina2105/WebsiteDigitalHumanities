@@ -2,14 +2,14 @@ export const solutionsData = [
     {  // TODO images missing
         id: 0,
         title: "Ein-Staat-Lösung",
-        text: "Aus den drei Gebieten soll ein einheitlicher Staat entstehen. Dieser soll eine Demokra e sein. Arabischen und jüdischen Gruppen sollen die selben Rechte und Pﬂichten haben.",
+        text: "Aus den drei Gebieten soll ein einheitlicher Staat entstehen. Dieser soll eine Demokratie sein. Arabischen und jüdischen Gruppen sollen die selben Rechte und Pﬂichten haben.",
         advantages: ["Keine Grenzkonﬂikte", "Jerusalem zugänglich"],
         disadvantages: ["Ablehnung beider Seiten", "Konﬂiktpotenzial"],
         image: require("../Images/Balfour_declaration_unmarked.jpg")
     }, {
         id: 1,
         title: "Zweistaatenlösung",
-        text: "Wie z.B. im UN-Teilungsplan oder den Oslo-Verhandlungen angestrebt, soll es einen israelischen und einen palästinensischen Staat geben. Diese sollen sich gegensetig anerkennen. Manche Entwürfe sehen eine neutrale Zone in Jerusalem vor.",
+        text: "Wie z.B. im UN-Teilungsplan oder den Oslo-Verhandlungen angestrebt, soll es einen israelischen und einen palästinensischen Staat geben. Diese sollen sich gegenseitig anerkennen. Manche Entwürfe sehen eine neutrale Zone in Jerusalem vor.",
         advantages: ["Beide Gruppen können nach eigenen Regeln leben"],
         disadvantages: ["Grenzziehung", "Jerusalem als Streitpunkt"],
         image: require("../Images/Balfour_declaration_unmarked.jpg")

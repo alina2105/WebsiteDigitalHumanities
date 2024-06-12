@@ -28,7 +28,7 @@ export default function History({fullList, events,}) {
                 </div>
                 <main className={styles.anchorContent}>
                     {events.map((item) => (
-                        <AnchorSection id={item.id} key={item.id} className={styles.anchorSection}>
+                        <AnchorSection id={item.id} className={styles.anchorSection}>
                             <section data-cy={`anchor_section_${item.id}`}>
                                 <HistEventBlock event={item}/>
                             </section>
