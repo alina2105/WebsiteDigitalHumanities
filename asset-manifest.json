@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/WebsiteDigitalHumanities/static/css/main.c453b1f5.css",
-    "main.js": "/WebsiteDigitalHumanities/static/js/main.dd5c7a8c.js",
+    "main.js": "/WebsiteDigitalHumanities/static/js/main.2dd5a2d4.js",
     "static/media/Weissbuch.jpeg": "/WebsiteDigitalHumanities/static/media/Weissbuch.7b0d033dcc951872e2b4.jpeg",
     "static/media/Auschwitz.jpg": "/WebsiteDigitalHumanities/static/media/Auschwitz.d537b5c50c04f0f2a083.jpg",
     "static/media/UN_Palestine_Partition_Versions_1947.jpg": "/WebsiteDigitalHumanities/static/media/UN_Palestine_Partition_Versions_1947.efd7b54bd742c2749843.jpg",
@@ -23,17 +23,21 @@
     "static/media/Jewish_militias_in_the_village_of_Deir_Yassin,_April_1948.jpg": "/WebsiteDigitalHumanities/static/media/Jewish_militias_in_the_village_of_Deir_Yassin,_April_1948.a1c7eebdd1d98e6820b4.jpg",
     "static/media/unabhaenigikeitskriegisrael-100_1280x720.jpeg": "/WebsiteDigitalHumanities/static/media/unabhaenigikeitskriegisrael-100_1280x720.219407a2272856de3c22.jpeg",
     "static/media/Exodus.jpg": "/WebsiteDigitalHumanities/static/media/Exodus.e7404d20166563d812a4.jpg",
+    "static/media/Dreistaaten_I.jpeg": "/WebsiteDigitalHumanities/static/media/Dreistaaten_I.5fc2f7c6eee67fd30a9a.jpeg",
+    "static/media/Dreistaaten_II.jpeg": "/WebsiteDigitalHumanities/static/media/Dreistaaten_II.9393fa9b7da657ef0023.jpeg",
+    "static/media/Zweistaaten.jpeg": "/WebsiteDigitalHumanities/static/media/Zweistaaten.b4b61620a2b9ff5fa846.jpeg",
     "static/media/alija.jpg": "/WebsiteDigitalHumanities/static/media/alija.312cb874855eb22325df.jpg",
+    "static/media/Einstaat.jpeg": "/WebsiteDigitalHumanities/static/media/Einstaat.ba6955a7dfc2484782b2.jpeg",
     "static/media/partitionarmistice.gif": "/WebsiteDigitalHumanities/static/media/partitionarmistice.c3f3077ff914ff6c73af.gif",
     "static/media/feuer2021.jpeg": "/WebsiteDigitalHumanities/static/media/feuer2021.9804d4d490ccd977a64e.jpeg",
     "static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.webp": "/WebsiteDigitalHumanities/static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.8deb6d446088b45ca4d6.webp",
     "static/media/oslo-abkommen.jpg": "/WebsiteDigitalHumanities/static/media/oslo-abkommen.d6a877bcd24fdc2d64ca.jpg",
     "index.html": "/WebsiteDigitalHumanities/index.html",
     "main.c453b1f5.css.map": "/WebsiteDigitalHumanities/static/css/main.c453b1f5.css.map",
-    "main.dd5c7a8c.js.map": "/WebsiteDigitalHumanities/static/js/main.dd5c7a8c.js.map"
+    "main.2dd5a2d4.js.map": "/WebsiteDigitalHumanities/static/js/main.2dd5a2d4.js.map"
   },
   "entrypoints": [
     "static/css/main.c453b1f5.css",
-    "static/js/main.dd5c7a8c.js"
+    "static/js/main.2dd5a2d4.js"
   ]
 }
