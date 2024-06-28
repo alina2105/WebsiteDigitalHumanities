@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/WebsiteDigitalHumanities/static/css/main.c453b1f5.css",
-    "main.js": "/WebsiteDigitalHumanities/static/js/main.95d667c5.js",
+    "main.css": "/WebsiteDigitalHumanities/static/css/main.8833cccd.css",
+    "main.js": "/WebsiteDigitalHumanities/static/js/main.0cb87566.js",
     "static/media/Weissbuch.jpeg": "/WebsiteDigitalHumanities/static/media/Weissbuch.7b0d033dcc951872e2b4.jpeg",
     "static/media/Auschwitz.jpg": "/WebsiteDigitalHumanities/static/media/Auschwitz.d537b5c50c04f0f2a083.jpg",
     "static/media/UN_Palestine_Partition_Versions_1947.jpg": "/WebsiteDigitalHumanities/static/media/UN_Palestine_Partition_Versions_1947.efd7b54bd742c2749843.jpg",
@@ -33,11 +33,11 @@
     "static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.webp": "/WebsiteDigitalHumanities/static/media/un-generalversammlung-teilungsplan-1947-1000x562.jpg.8deb6d446088b45ca4d6.webp",
     "static/media/oslo-abkommen.jpg": "/WebsiteDigitalHumanities/static/media/oslo-abkommen.d6a877bcd24fdc2d64ca.jpg",
     "index.html": "/WebsiteDigitalHumanities/index.html",
-    "main.c453b1f5.css.map": "/WebsiteDigitalHumanities/static/css/main.c453b1f5.css.map",
-    "main.95d667c5.js.map": "/WebsiteDigitalHumanities/static/js/main.95d667c5.js.map"
+    "main.8833cccd.css.map": "/WebsiteDigitalHumanities/static/css/main.8833cccd.css.map",
+    "main.0cb87566.js.map": "/WebsiteDigitalHumanities/static/js/main.0cb87566.js.map"
   },
   "entrypoints": [
-    "static/css/main.c453b1f5.css",
-    "static/js/main.95d667c5.js"
+    "static/css/main.8833cccd.css",
+    "static/js/main.0cb87566.js"
   ]
 }
